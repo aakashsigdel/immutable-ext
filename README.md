@@ -2,7 +2,8 @@
 fantasyland extensions for immutablejs
 
 # Install
-`npm install immutable-ext`
+* `npm install immutable`
+* `npm install immutable-ext`
 
 
 # What is this?
